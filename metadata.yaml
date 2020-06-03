@@ -1,0 +1,23 @@
+_repo: Shrubs-for-Kansas-Landscapes_62234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McDaniel, Gary L.
+    gutenberg_agent_id: '51824'
+    url: http://www.gutenberg.org/2009/agents/51824
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shrubs -- Kansas'
+- !lcsh 'Ornamental shrubs -- Kansas'
+- !lcc 'SB'
+- GITenberg
+title: Shrubs for Kansas Landscapes
+url: http://www.gutenberg.org/ebooks/62234
